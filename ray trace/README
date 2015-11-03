@@ -1,0 +1,6 @@
+Features implemented:
+All features have been implemented. 
+But for chessboard, I haven't implemented the feature for it to reflect the spheres. 
+(I suppose only the image of board in spheres and shadows on the board are required.)
+
+For convenience, I have defined the scene for chessboard in front of "trace.cpp".

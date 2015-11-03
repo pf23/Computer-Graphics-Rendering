@@ -1,0 +1,23 @@
+
+All steps completed.
+
+1. makefile description:
+	execute "make" to generate executable file
+	execute "./FruitTetris" to run the game
+
+2.	control description
+	key "UP"    	- rotate the tile
+	key "LEFT"  	- move the tile left
+	key "RIGHT" 	- move the tile right
+	key "DOWN"  	- accelerate the falling speed, press multiple times to gain faster speed
+	'q' or 'ESC' 	- quit the game
+	'r'             - restart the game
+	' '             - shuffle the cells in the tile
+
+3. game logic description
+	a. when one row is full, it is removed and all the things above shift down
+	b. when three or more same fruits in a row/colomn, they are removed 
+	   and the cells above the removed cells (on the same coloumns) shift down
+
+
+by Fei Pang, 16 Feb, 2015

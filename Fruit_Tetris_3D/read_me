@@ -1,0 +1,12 @@
+some bugs:
+1. tile on the tip cannot display on some area, but works after being released
+2. the color of board have hidden the top surface of tiles, however 3D tiles are indeed implemented.
+
+usage:
+space 			- drop the tile (can not drop when there is collision)
+ctrl + left/right 	- adjust camera
+up			- rotate
+a/s/w/d 		- adjust the robot arm
+r  			- restart
+ESC or q		- quit
+
